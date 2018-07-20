@@ -1,3 +1,4 @@
 # leetcode-go
 
 用golang完成的LeetCode算法
+每道题的算法在tests目录下面以题号为文件名的形式保存
